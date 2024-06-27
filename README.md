@@ -6,7 +6,7 @@ Best papers about Diffusion models and 3D Gaussian splatting models for Video ge
 ***************************
 # Video Generation and LLMs (Multi-modal AI)
 
-1. TimeChat: A Time-sensitive Multimodal Large Language Model for Long Video Understanding  : https://arxiv.org/abs/2312.02051   &   ![project_page](https://github.com/RenShuhuai-Andy/TimeChat)
+1. TimeChat: A Time-sensitive Multimodal Large Language Model for Long Video Understanding  : https://arxiv.org/abs/2312.02051   &   [project_page](https://github.com/RenShuhuai-Andy/TimeChat)
 
 2. GaussianAvatar: Towards Realistic Human Avatar Modeling from a Single Video via Animatable 3D Gaussians  : https://arxiv.org/abs/2312.02134   &   ![project_page](https://huliangxiao.github.io/GaussianAvatar)
 
