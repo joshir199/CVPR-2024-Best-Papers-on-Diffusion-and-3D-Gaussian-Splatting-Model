@@ -50,6 +50,10 @@ Best papers about Diffusion models and 3D Gaussian splatting models for Video ge
 *************************************************
 # 3D Scene Construction & Gaussian Splatting
 
+![](https://github.com/joshir199/CVPR-2024-Best-Diffusion-and-3D-Gaussian-Splatting-Model-Papers/blob/main/images/gaussian_splatting_architecture.png)
+
+                                                         gaussian splatting flow
+
 1. Feature 3DGS: Supercharging 3D Gaussian Splatting to Enable Distilled Feature Fields : https://arxiv.org/abs/2312.03203  &  [project_page](https://feature-3dgs.github.io/)
 
 2. GS-IR: 3D Gaussian Splatting for Inverse Rendering :  https://arxiv.org/abs/2311.16473  &  [project_page](https://github.com/lzhnb/GS-IR)
