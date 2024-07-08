@@ -96,3 +96,5 @@ Best papers about Diffusion models and 3D Gaussian splatting models for Video ge
 3. From Multimodal LLM to Human-level AI: Modality, Instruction, Reasoning, Efficiency and Beyond  :  https://www.youtube.com/watch?v=pHBT3zXxQX8&ab_channel=HaoFei  &  [link_page](https://mllm2024.github.io/CVPR2024/)
 
 4. Depth Anything Model :  https://arxiv.org/abs/2406.09414   &  [project_page](https://github.com/LiheYoung/Depth-Anything)
+
+5. HouseCrafter: Lifting Floorplans to 3D Scenes with 2D Diffusion Model : https://arxiv.org/abs/2406.20077  &  [project_page](https://neu-vi.github.io/houseCrafter/)
