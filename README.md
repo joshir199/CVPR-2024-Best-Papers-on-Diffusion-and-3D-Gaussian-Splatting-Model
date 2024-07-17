@@ -100,3 +100,5 @@ Best papers about Diffusion models and 3D Gaussian splatting models for Video ge
 5. HouseCrafter: Lifting Floorplans to 3D Scenes with 2D Diffusion Model : https://arxiv.org/abs/2406.20077  &  [project_page](https://neu-vi.github.io/houseCrafter/)
 
 6. ConceptGraphs: Open-Vocabulary 3D Scene Graphs :  http://arxiv.org/abs/2309.16650  &  [project_page](https://concept-graphs.github.io/)
+
+7. 3D Gaussians Paper on Arxiv'2024 : [github_page](https://github.com/Lee-JaeWon/2024-Arxiv-Paper-List-Gaussian-Splatting)
