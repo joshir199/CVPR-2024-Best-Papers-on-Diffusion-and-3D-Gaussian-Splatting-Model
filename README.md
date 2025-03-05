@@ -102,3 +102,5 @@ Best papers about Diffusion models and 3D Gaussian splatting models for Video ge
 6. ConceptGraphs: Open-Vocabulary 3D Scene Graphs :  http://arxiv.org/abs/2309.16650  &  [project_page](https://concept-graphs.github.io/)
 
 7. 3D Gaussians Paper on Arxiv'2024 : [github_page](https://github.com/Lee-JaeWon/2024-Arxiv-Paper-List-Gaussian-Splatting)
+
+8. 3D Gaussians Paper on Arxiv'2024 : [github_link](https://github.com/Lee-JaeWon/2025-Arxiv-Paper-List-Gaussian-Splatting) 
